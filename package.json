@@ -1,0 +1,24 @@
+{
+  "name": "markright",
+  "version": "1.0.0",
+  "description": "A lightweight real-time editor and viewer for Markdown files",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/shrysjain/markright.git"
+  },
+  "keywords": [
+    "markdown",
+    "markright",
+    "md"
+  ],
+  "author": "Shreyas Jain",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
